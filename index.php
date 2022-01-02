@@ -14,7 +14,9 @@
    
 </head>
 <body>
-    <div class="container">
+
+
+<div class="container">
         <div class="left-side">
        
 	
@@ -32,5 +34,8 @@
                 
         </div>
     </div>
+	
+
+   
     </body>
     </html>
